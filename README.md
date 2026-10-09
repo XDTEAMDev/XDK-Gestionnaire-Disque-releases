@@ -10,6 +10,17 @@ Logiciel Windows (10 et 11) de **XDK TEAM DEV** pour **voir ce qu'il y a sur un 
 
 Il faut le **.NET 8 Desktop Runtime** (x64), gratuit chez Microsoft : https://dotnet.microsoft.com/download/dotnet/8.0 (« .NET Desktop Runtime »).
 
+## Clé (gratuite)
+
+Depuis la 1.7.0, il faut une **clé** pour utiliser le logiciel (1 mois ou à vie) :
+
+1. Ouvre le logiciel : il affiche le **code de ton PC** (par exemple `ABCD-EFGH-JKLM`). Copie-le.
+2. Rejoins le **Discord XDK TEAM DEV** : https://discord.gg/zEC35KSuxt, choisis ta langue, puis va dans la catégorie 💽 XDK OUVRIR DISQUE, salon 🔑・demande-de-clé.
+3. Clique sur « Demander une clé » et colle ton code PC. L'équipe valide ta demande et t'envoie ta clé en **message privé**.
+4. Colle la clé dans le logiciel et clique sur « Activer ».
+
+Une clé ne marche que sur le PC de son code. Les mises à jour arrivent toujours toutes seules, même sans clé.
+
 ## Ce qu'il fait
 
 - Reconnaît tout seul chaque disque branché et dit ce qu'il contient : vide, Windows, **Xbox 360**, **Linux / NAS**, Xbox One, PS4/PS5, Mac, chiffré, adaptateur USB sans disque…
